@@ -23,6 +23,9 @@ nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
 
+# Set the NLTK data directory
+nltk.data.path.append('./nltk_data')
+
 lemmatizer = WordNetLemmatizer()
 stop_words = set(stopwords.words('english'))
 
