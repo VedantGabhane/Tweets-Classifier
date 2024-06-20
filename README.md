@@ -1,1 +1,1 @@
-# Tweets Classifier Whether it id Disaster or Not
+# Tweets Classifier Whether it is Disaster or Not
